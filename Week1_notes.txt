@@ -1,0 +1,13 @@
+Week 1 - Linux Basics
+
+Commands Practiced:
+1. pwd - prints current directory
+2. ls - lists file
+3. mkdir testfolder - creates folder
+4. cd testfolder - enter folder
+5. touch hello.txt - create file
+6. echo "My first Linux file" > hello.txt - write into file
+7. cat hello.txt - show file contents
+8. whoami - prints username
+9. uname -a - system info
+10. history - show recent commands
